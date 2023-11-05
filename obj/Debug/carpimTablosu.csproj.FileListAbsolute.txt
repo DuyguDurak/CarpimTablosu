@@ -1,0 +1,8 @@
+D:\Dersler\Smartpro\CarpimTablosu\carpimTablosu\bin\Debug\carpimTablosu.exe.config
+D:\Dersler\Smartpro\CarpimTablosu\carpimTablosu\bin\Debug\carpimTablosu.exe
+D:\Dersler\Smartpro\CarpimTablosu\carpimTablosu\bin\Debug\carpimTablosu.pdb
+D:\Dersler\Smartpro\CarpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.csproj.AssemblyReference.cache
+D:\Dersler\Smartpro\CarpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.csproj.SuggestedBindingRedirects.cache
+D:\Dersler\Smartpro\CarpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.csproj.CoreCompileInputs.cache
+D:\Dersler\Smartpro\CarpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.exe
+D:\Dersler\Smartpro\CarpimTablosu\carpimTablosu\obj\Debug\carpimTablosu.pdb
